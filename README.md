@@ -123,7 +123,7 @@ button {
     <div class="grid">
 
         <div class="card">
-            <img src="[paint_by_pastries_1.png](https://github.com/heavenlyloaf/heavenlyloaf.github.io/blob/main/paint_by_pastries_1.png?raw=true)">
+            <img src="paint_by_pastries_1.png">
             <p>Studio Kit</p>
             <p>₱100</p>
             <button onclick="addToCart('Studio Kit',100)">Add</button>
@@ -137,14 +137,14 @@ button {
         </div>
 
         <div class="card">
-            <img src="file:///E:/Heaven_Folder/paint_by_pastries_3.png">
+            <img src="paint_by_pastries_3.png">
             <p>Studio Kit + Florals</p>
             <p>₱175</p>
             <button onclick="addToCart('Studio Kit + Florals',175)">Add</button>
         </div>
 
         <div class="card">
-            <img src="file:///E:/Heaven_Folder/paint_by_pastries_4.png">
+            <img src="paint_by_pastries_4.png">
             <p>Complete Masterpiece</p>
             <p>₱200</p>
             <button onclick="addToCart('Complete Masterpiece',200)">Add</button>
